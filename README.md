@@ -15,3 +15,5 @@ Installing Breanna
 5. install `breanna` by `pip install -e .`
 
 See `Documentation for Breanna` for how to use Breanna.
+
+A more extensive description of the project can be found here: https://alefac912.github.io/MSL-datashack2019/
