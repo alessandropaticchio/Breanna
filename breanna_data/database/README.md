@@ -1,0 +1,1 @@
+This is the folder where Breannna keeps the database for campaigns and standard display feed.
